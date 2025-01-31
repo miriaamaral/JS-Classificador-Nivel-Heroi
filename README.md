@@ -29,8 +29,10 @@ Como Executar:
 Ou, se preferir, abra o repositório no VS Code e execute o arquivo index.html com o Live Server, como eu fiz.
 
 Desenvolvimento:
-Durante o desenvolvimento deste projeto, enfrentei alguns desafios para tornar o código funcional. 
-Para superá-los, utilizei a ajuda da IA do WhatsApp para corrigir bugs e melhorar a lógica do código. 
+Meu primeiro desafio da DIO que fiz sozinha, apenas com o auxilio da IA do WhatsApp como material de consulta, corrigir bugs.
+Enfrentei alguns desafios para tornar o código funcional então pedi um Help da IA do WhatsApp para testar. 
+O objetivo do desafio de projeto foi usar estruturas condicionais para apresentar o nível de um herói com base em sua experiência (XP). 
+No final, o classificador apresenta uma mensagem com o nome do herói e seu nível. O projeto deu super certo e ainda consegui personalizar e testar o código!
 Essa experiência me permitiu aprender mais sobre a resolução de problemas e a importância da persistência no desenvolvimento de software.
 
 Contato:
